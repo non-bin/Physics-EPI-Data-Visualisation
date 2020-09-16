@@ -1,5 +1,7 @@
 # Physics-EPI-Data-Visualisation
 
+Using [Chartjs](https://www.chartjs.org/docs/latest/)
+
 # Licence
 
     Data visualizations for my VCE Physics EPI
